@@ -1,0 +1,9 @@
+query{
+  books {
+    id
+   	name
+    author 
+  }
+}
+
+- use this query to retrieve the books
